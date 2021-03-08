@@ -1,0 +1,3 @@
+#large data files
+/data_csv/mnist_test.csv
+/data_csv/mnist_train.csv
